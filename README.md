@@ -1,2 +1,3 @@
 + Technology name - Tailwind CSS
-+ Live link https://moumita-tea-house.netlify.app/
++ Netlify Live link https://moumita-tea-house.netlify.app/
++ Github Live link https://moumita-tea-house.netlify.app/
